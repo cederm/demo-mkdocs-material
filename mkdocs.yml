@@ -1,7 +1,7 @@
 # Project information
-
 site_name: 'Le site web de démo'
-site_description: 'In this course we will learn how to deploy websites in continuous deployment with static site generators. We will try to understand numerous Web Dev and hosting concepts and to practice them.'
+site_description: MkDocs Bootstrap Theme
+
 site_author: 'Cédric'
 site_url: 'https://ermini.goffinet.org/'
 google_analytics:
@@ -13,8 +13,7 @@ repo_url: ''
 
 # Theme
 
-theme_dir: 'material/'
-theme: 'material'
+theme_dir: mkdocs_bootstrap
 
 # Options
 
