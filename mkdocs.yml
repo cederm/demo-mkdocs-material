@@ -72,5 +72,5 @@ markdown_extensions:
 
 pages:
 - 'Mon essai de site': 'index.md'
-- '1. Markdown styling':'markdow-styling.md'
+- '1. Markdown styling': 'markdown-styling.md'
 - '2. Apprendre à écrire en Markdown': 'noway.md'
